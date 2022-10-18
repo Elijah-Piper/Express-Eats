@@ -12,9 +12,9 @@
         <property name="show_sql">true</property>
         <property name="format_sql">true</property>
         <property name="connection.pool_size">3</property>
-<!--        <mapping class="com.genspark.LocalBuySellAPI.Entity.Account" />-->
-<!--        <mapping class="com.genspark.LocalBuySellAPI.Entity.Listing" />-->
-<!--        <mapping class="com.genspark.LocalBuySellAPI.Entity.ImageData" />-->
+        <mapping class="com.genspark.ExpressEatsAPI.Entity.Restaurant" />
+        <mapping class="com.genspark.ExpressEatsAPI.Entity.MealItem" />
+        <mapping class="com.genspark.ExpressEatsAPI.Entity.Account" />
     </session-factory>
 
 </hibernate-configuration>
