@@ -14,4 +14,4 @@ Upon cloning the github repo:
     - The frontend configuration is already set up to interface with the backend, although by default, the backend will not populate any test data automatically.
     - The frontend will, by default, be accessible from localhost:3030
 
-## API endpoints
+## API endpoints 
